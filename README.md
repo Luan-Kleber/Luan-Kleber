@@ -1,16 +1,39 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Luan-Kleber/Luan-Kleber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨 24 years old.
+- 🔭 Hoje trabalho com Full-stack, mas, com foco em Back-end.
+- 🌱 Aprendendo Laravel com Vue..
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true" />
+</picture>
+<picture>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Kleber&layout=compact&theme=dark" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Tecnologias</h1>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luan-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Luan-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Luan-Pgsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Luan-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Luan-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Luan-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Luan-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luan-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/luan-kleber-amaral-0b2abb187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
