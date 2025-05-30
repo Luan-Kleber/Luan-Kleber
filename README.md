@@ -13,10 +13,10 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true" />
 </picture>
 <picture>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Kleber&layout=compact&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Kleber&layout=compact&theme=dark" />
 </picture>
 
 <h1>Tecnologias</h1>
