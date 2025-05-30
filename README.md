@@ -1,15 +1,14 @@
 ## Olá 👋
 
-- 👨 24 years old.
-- 🔭 Hoje trabalho com Full-stack, mas, com foco em Back-end.
-- 🌱 Aprendendo Laravel com Vue..
+- 🔭 Sou Luan, tenho 24 anos e atualmente atuo como desenvolvedor Full-Stack, com foco principal em Back-End.
+- 🎯 No momento, estou aprofundando meus conhecimentos em **Laravel** e **Vue.js**.
 
-<div>
+<div align="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-Kleber&show_icons=true&theme=dark" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Kleber&layout=compact&theme=dark" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Kleber&layout=compact&theme=dark" />
 </div>
 
-<h1>Tecnologias</h1>
+## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
