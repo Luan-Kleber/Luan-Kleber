@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🔭 Sou Luan, tenho 24 anos e atualmente atuo como desenvolvedor Full-Stack, com foco principal em Back-End.
+- 🔭 Sou Luan, tenho 25 anos e atualmente atuo como desenvolvedor Full-Stack, com foco principal em Back-End.
 - 🎯 No momento, estou aprofundando meus conhecimentos em **Laravel** e **Vue.js**.
 
 <div align="center">
